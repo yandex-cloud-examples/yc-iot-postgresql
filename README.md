@@ -1,4 +1,4 @@
-## Пример функции для записи данных из IoT Core в PostgreSQL
+# Пример функции для записи данных из IoT Core в PostgreSQL
 
 В данном руководстве вы организуете запись данных с устройства в базу данных. В качестве примера будет использоваться [кластер Yandex Managed Service for PostgreSQL](https://yandex.cloud/ru/docs/managed-postgresql/concepts/). Чтобы подключить устройство к [Yandex IoT Core](https://yandex.cloud/ru/docs/iot-core/), вам понадобится MQTT-брокер. Все шаги выполняются в [консоли управления](https://console.yandex.cloud/).
 
